@@ -12,4 +12,4 @@ instead of $z(v) \in C(s'(v))$ in the contexts
 
 * P. 120, mid: it should be "$A(a, b, c)''$ is equal to $A''(a, b, c)$" (with the extra $c$ parameter), since $A''$ is ternary.
 
-* P. 124, bottom, $\forall$-formation: the premise should read $A \text{set}$, not $A \text{prop}$.
+* P. 124, bottom, $\forall$-formation: the premise should read $A\ \text{set}$, not $A\ \text{prop}$.
