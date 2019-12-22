@@ -11,3 +11,5 @@ instead of $z(v) \in C(s'(v))$ in the contexts
   We shall pass the same function to the recursive call, otherwise this evaluation rule does not make sense (and does not even type check).
 
 * P. 120, mid: it should be "$A(a, b, c)''$ is equal to $A''(a, b, c)$" (with the extra $c$ parameter), since $A''$ is ternary.
+
+* P. 124, bottom, $\forall$-formation: the premise should read $A \text{set}$, not $A \text{prop}$.
