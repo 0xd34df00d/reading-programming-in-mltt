@@ -9,3 +9,5 @@ instead of $z(v) \in C(s'(v))$ in the contexts
 
 * P. 106, second line from above: the value of the expression shall be $e(a, b, c, (x)\text{treerec}(c(x), e)$.
   We shall pass the same function to the recursive call, otherwise this evaluation rule does not make sense (and does not even type check).
+
+* P. 120, mid: it should be "$A(a, b, c)''$ is equal to A''(a, b, c)$ (with the extra $c$ parameter), since $A''$ is ternary.
