@@ -9,3 +9,5 @@ instead of <img src="/tex/8dca0ab1a3311a299651db0ec21443fe.svg?invert_in_darkmod
 
 * P. 106, second line from above: the value of the expression shall be <img src="/tex/3a0a5838a63ec9213f7f936637e0ecbb.svg?invert_in_darkmode&sanitize=true" align=middle width=186.53553599999998pt height=24.65753399999998pt/>.
   We shall pass the same function to the recursive call, otherwise this evaluation rule does not make sense (and does not even type check).
+
+* P. 120, mid: it should be "<img src="/tex/512dea171bdc78854239cde5c41ff79e.svg?invert_in_darkmode&sanitize=true" align=middle width=70.16367599999998pt height=24.7161288pt/> is equal to A''(a, b, c)<img src="/tex/d8c3055755e7828348ad191d8829f5c1.svg?invert_in_darkmode&sanitize=true" align=middle width=102.28268324999999pt height=24.65753399999998pt/>c<img src="/tex/b80e740590dfd1c865355451deed512d.svg?invert_in_darkmode&sanitize=true" align=middle width=128.774382pt height=24.65753399999998pt/>A''$ is ternary.
