@@ -1,4 +1,4 @@
-*Errata* (sort of)
+## Errata (sort of)
 
 * P. 92, judgements (14.15-17):
 looks like it should be $z(v) \in \text{Set}(C(s'(v)))$
@@ -16,5 +16,5 @@ instead of $z(v) \in C(s'(v))$ in the contexts
 
 * P. 128, top definition: it should be $(z)\text{T}$ instead of $(z)\text{T}''$.
 
-* P. 130, $+$-subset-equality: it the equalities in the conclusion live in $A + B$,
+* P. 130, $+$-subset-equality: the equalities in the conclusion live in $A + B$,
   that is, they should be $z =_{A+B} inl(x)$ and $z =_{A+B} inr(y)$ respectively.
