@@ -13,3 +13,8 @@ instead of $z(v) \in C(s'(v))$ in the contexts
 * P. 120, mid: it should be "$A(a, b, c)''$ is equal to $A''(a, b, c)$" (with the extra $c$ parameter), since $A''$ is ternary.
 
 * P. 124, bottom, $\forall$-formation: the premise should read $A\ \text{set}$, not $A\ \text{prop}$.
+
+* P. 128, top definition: it should be $(z)\text{T}$ instead of $(z)\text{T}''$.
+
+* P. 130, $+$-subset-equality: it the equalities in the conclusion live in $A + B$,
+  that is, they should be $z =_{A+B} inl(x)$ and $z =_{A+B} inr(y)$ respectively.
