@@ -21,3 +21,6 @@ instead of $z(v) \in C(s'(v))$ in the contexts
 
 * P. 130, $+$-subset-equality: the equalities in the conclusion live in $A + B$,
   that is, they should be $z =_{A+B} inl(x)$ and $z =_{A+B} inr(y)$ respectively.
+
+* P. 143, second Application rule: the conclusion should read $c_1(a) = c_2(b)$,
+  since $a_1$ and $a_2$ aren't even in scope.
